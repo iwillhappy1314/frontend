@@ -90,7 +90,7 @@
     "resolve-url-loader": "~3.1.0",
     "rimraf": "~2.6",
     "sass-loader": "~6.0",
-    "style-loader": "^0.20.1",
+    "style-loader": "^0.23.1",
     "stylelint": "^8.4.0",
     "stylelint-config-standard": "~18.2.0",
     "stylelint-webpack-plugin": "^0.10.1",
