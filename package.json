@@ -99,7 +99,7 @@
     "webpack-assets-manifest": "^1.0.0",
     "webpack-dev-middleware": "~2.0.4",
     "webpack-hot-middleware": "~2.25.0",
-    "webpack-merge": "~4.2.2",
+    "webpack-merge": "~5.0.7",
     "yargs": "~15.4.0"
   },
   "dependencies": {
